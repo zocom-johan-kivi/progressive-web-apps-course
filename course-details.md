@@ -1,14 +1,11 @@
-# Hello World
-**Hej och hjärtligt välkommen till denna kortkurs i Progressive Web Apps ( PWA ).**
+Hej och hjärtligt välkommen till denna kortkurs i Progressive Web Apps ( PWA ). På denna sida finns information om kursens förkunskaper, upplägg och tekniska krav för att komma igång
 
-**På denna sida finns information om kursens förkunskaper, upplägg och tekniska krav för att komma igång**
+# Information
 
-## Information
-
-### Förkunskaper
+## Förkunskaper
 För att på ett bra sätt kunna tillgodagöra sig denna kurs så behöver du ha goda grundkunskaper i *HTML*, *CSS* och *vanilla Javascript* samt *git*.
 
-### Kursupplägg
+## Kursupplägg
 Kursen består av *7 st innehållsmoduler* samt 4 individuella handledningstillfällen.
 
 |nr|Modul|Innehåll|
@@ -25,10 +22,10 @@ Kursen består av *7 st innehållsmoduler* samt 4 individuella handledningstillf
 |7|[Examination](#)|Kursens slutexamination och bedömningsunderlag.|
 ||Handledning|Individuell handledning 30min.|
 
-### Handledning
+## Handledning
 Handledning sker vid _inbokade tillfällen_. Du bokar in handledning på [följande länk](https://calendly.com/zocom).
 
-### Daglig kommunikation på discord
+## Daglig kommunikation på discord
 Till denna kurs har vi skapat en egen [discord-server](https://discord.com/). Syftet med den är att ni kursdeltagare kan kommunciera, hjälpa och utmana varandra på dygnets alla timmar. Handledare är inbjudna och svarar i mån av tid.
 
 Inbjudan till Discord hittar du här.
@@ -39,14 +36,4 @@ https://discord.gg/gzprhd69H2
 Om du aldrig använd Discord förut, kika in [denna crashkurs](https://www.youtube.com/watch?v=M9Lqwe7R2X0).
 
 
-## Tekniska krav
-
-### Https
-En PWA måste köras med ```https```. Detta är inte "default" på din lokala maskin utan vi måste för att kunna utveckla PWAs lokalt installera en https-lösning.
-
-Vi kommer i kursen använda oss av [Visual Studio Codes liveserver](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). Vi kan installera https i denna genom att följa [dessa instruktioner](https://github.com/FU-PWA-HT21/HTTPS-Enable-VS-code).
-
-### Publicera din PWA
-Vi kommer använda oss av [Netlify](https://www.netlify.com/) för att publicera våra PWAs på det stora vilda internet.
-
-Genom att koppla ihop Netlify och ditt github-repo så kan vi på ett väldigt smidigt sätt publicera din PWA och hålla den uppdaterad.
+**Då kör vi!**
