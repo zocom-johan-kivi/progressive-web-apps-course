@@ -9,7 +9,7 @@ template:
 steps:
   - title: 0. Hello World
     description: Välkommen till kursen
-    video: 'https://player.vimeo.com/video/651177074?h=7026a5682f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479'
+    video: 'https://player.vimeo.com/video/651177074?h=7026a5682f'
     event: watch
   - title: 0.1 Https
     description: I detta steg så installerar vi https på vår localhost
