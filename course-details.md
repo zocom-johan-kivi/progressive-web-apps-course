@@ -1,4 +1,4 @@
-Hej och hjärtligt välkommen till denna kortkurs i Progressive Web Apps ( PWA ). På denna sida finns information om kursens förkunskaper, upplägg och tekniska krav för att komma igång
+Hej och hjärtligt välkommen till denna kortkurs i Progressive Web Apps ( PWA )! Nedan finns nyttig övergripande information om kursen.
 
 # Information
 
