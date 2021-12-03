@@ -1,0 +1,19 @@
+title: Progressive Web Apps
+description: >-
+  Kursen fokuserar på grunderna i en PWA genom att göra “traditionella”
+  webbappar installerbara (inklusive ikoner). De blir också snabbare med service
+  workers för caching och offlinefunktionalitet.
+template:
+  repo: progressive-web-apps-template
+  name: progressive-web-apps
+before:
+  - type: createIssue
+    title: Welcome!
+    body: new-issue.md
+steps:
+  - title: First step
+    description: The first step in your course
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
